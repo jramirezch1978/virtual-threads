@@ -1,0 +1,2 @@
+./ab -c 20 -n 60 http://localhost:8080/client
+./ab -c 20 -n 60 http://localhost:8080/client2
